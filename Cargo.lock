@@ -654,6 +654,7 @@ name = "mendeley-rs"
 version = "0.1.0"
 dependencies = [
  "anyhow",
+ "httparse",
  "oauth2",
  "reqwest",
  "reqwest-oauth1",
